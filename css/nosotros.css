@@ -1,0 +1,307 @@
+/* Inserta tu codigo aqui */
+.titulo{
+	color:#0B0B61;
+	text-align: center;
+	margin-top: 25px;
+}
+
+/*Fin Header*/
+/*Section*/
+
+.backimg{
+	background-image: url("../img/dance_7.jpg") ; 
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 760px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    position: absolute;
+    clip: rect(0px,13766px,370px,0px);
+}
+
+
+.menu1{
+    color:#A9BCF5;
+    margin-top: 30px;
+    margin-left: 350px;
+}
+
+.menu2{
+    color:#A9BCF5;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.menu3{
+    color:#A9BCF5;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.menu4{
+    color:#A9BCF5;
+    margin-top: 30px;
+    margin-left: -150px;
+}
+
+/*Header*/
+/*Section*/
+
+.textot1{
+	color: white;
+	font-size: 22px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.textop1{
+	color: white;
+	font-size: 14px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.backblack{
+	background-color: black;
+	opacity: 0.4;
+	width: 500px;
+	height: 200px;
+	margin-left: 400px;
+	margin-top: 90px;
+}
+/*Final Section*/
+/*Section*/
+
+.backpattern1{
+	background-image: url("../img/cubes.png") ;
+	margin-top: 400px; 
+	margin-left: 0px;
+	width: 1349px;
+	height: 300px;
+}
+
+.pilar1{
+	margin-top: 100px;
+	max-width:300px; 
+    display: inline-block;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 140px;
+}
+
+.pilar2{
+	margin-top: 100px;
+	max-width:300px; 
+   	display: inline-block;
+   	text-align: justify;
+    text-justify: inter-word;
+    margin-left: 80px;
+}
+
+.pilar3{
+	margin-top: 100px;
+	max-width:300px; 
+  	display: inline-block;
+  	text-align: justify;
+    text-justify: inter-word;
+    margin-left: 80px;
+}
+
+/*Final Section*/
+/*Section*/
+
+.instructores{
+	text-align: center;
+	margin-top:100px; 
+}
+
+.profesor1{
+	margin-top: 200px;
+	margin-left: 100px;
+}
+
+/*Profesor 1*/
+
+.profesorimg1{
+	width: 200px;
+	height: 200px;
+	clip: rect(0px,1366px,150px,0px);
+	position: absolute;
+	margin-top: -12%;
+}
+
+.textoprof{
+	font-size: 14px;
+}
+
+.parrafoprof{
+	font-size: 11px;
+}
+
+
+/*Profesor 1*/
+
+.profesor1{
+	margin-top: 200px;
+	margin-left: 150px;
+}
+
+.profesorimg1{
+	width: 200px;
+	height: 250px;
+	clip: rect(0px,1366px,150px,0px);
+	position: absolute;
+	margin-top: -12%;
+}
+
+/*Profesor 2*/
+
+.profesor2{
+	margin-top: 200px;
+	margin-left: -70px;
+}
+
+.profesorimg2{
+	width: 200px;
+	height: 250px;
+	clip: rect(0px,1366px,150px,0px);
+	position: absolute;
+	margin-top: -12%;
+}
+
+/*Profesor 3*/
+
+.profesor3{
+	margin-top: 200px;
+	margin-left: -50px;
+}
+
+.profesorimg3{
+	width: 200px;
+	height: 250px;
+	clip: rect(0px,1366px,150px,0px);
+	position: absolute;
+	margin-top: -12%;
+}
+
+/*Profesor 4*/
+
+.profesor4{
+	margin-top: 200px;
+	margin-left: -4%;
+}
+
+.profesorimg4{
+	width: 250px;
+	height: 250px;
+	clip: rect(0px,200px,150px,0px);
+	position: absolute;
+	margin-top: -12%;
+}
+
+/*Final Section*/
+/*Section*/
+
+.backpattern2{
+	background-image: url("../img/cubes.png") ;
+	margin-top: 80px; 
+	margin-left: 0px;
+	width: 1363px;
+	height: 300px;
+}
+
+.otrafrase{
+	font-size: 40px;
+	margin-left: 450px;
+	margin-top: 80px;
+
+}
+
+/*Final Section*/
+/*Section*/
+
+.backzapatilla{
+   
+    background-image: url("../img/shoes_1.jpg"); 
+    background-repeat: no-repeat;
+   	width: 700px;
+   	height: 700px;
+   	margin-left: 500px;
+   	margin-top: 1px;
+}
+
+/*Caja de contacto*/
+
+.contacto{
+    padding: 45px 45px 20px;
+    margin-top: 50px;
+    max-width:100px; 
+    display: inline-block;
+}
+.contacto label{
+    display: block;
+    font-weight: bold;
+}
+.contacto div{
+    margin-bottom: 15px;
+}
+.contacto input[type='text'], .contacto textarea{
+    padding: 7px 6px;
+    width: 294px;
+    border: 1px solid #CED5D7;
+    resize: none;
+    box-shadow:0 0 0 3px #EEF5F7;
+    margin: 5px 0;
+}
+.contacto input[type='text']:focus, .contacto textarea:focus{
+    outline: none;
+}
+.contacto input[type='submit']{
+    padding: 8px 16px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px white;
+ 
+    background: #e4f1f6;
+    background: -moz-linear-gradient(top, #e4f1f6 0%, #cfe6ef 100%);
+    background: -webkit-linear-gradient(top, #e4f1f6 0%,#cfe6ef 100%);
+}
+.contacto input[type='submit']:hover{
+    background: #edfcff;
+    background: -moz-linear-gradient(top, #edfcff 0%, #cfe6ef 100%);
+    background: -webkit-linear-gradient(top, #edfcff 0%,#cfe6ef 100%);
+}
+.contacto input[type='submit']:active{
+    background: #cfe6ef;
+    background: -moz-linear-gradient(top, #cfe6ef 0%, #edfcff 100%);
+    background: -webkit-linear-gradient(top, #cfe6ef 0%,#edfcff 100%);
+}
+
+.contacto{
+	margin-top: 1px;
+	margin-left: -400px;
+}
+
+
+
+
+
+
+/*Final Section*/
+/*Footer*/
+
+.backfooter{
+    background-color: #0B0B3B; 
+    width: 1277px;
+    height: 50px;
+    margin-top: 900px;
+}
+
+.derechosr{
+    color: #E6E6E6;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+/*Final Footer*/

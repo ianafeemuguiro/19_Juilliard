@@ -1,0 +1,205 @@
+/* Inserta tu codigo aqui */
+
+/*Header*/
+
+.titulo{
+	color:#0B0B61;
+	margin-left: 515px;
+	margin-top: 25px;
+}
+
+.menu1{
+    color:#A9BCF5;
+    margin-top: 30px;
+    margin-left: 350px;
+}
+
+.menu2{
+    color:#A9BCF5;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.menu3{
+    color:#A9BCF5;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.menu4{
+    color:#A9BCF5;
+    margin-top: 30px;
+    margin-left: -150px;
+}
+
+/* Fin Header*/
+
+/*Section*/
+
+.backgray{
+	background-color: #D8D8D8;
+	width: 1261px;
+	height: 1000px;
+	margin-left: 1px;
+	margin-top: 20px;
+}
+
+.subtitulo{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 30px;
+
+}
+
+/*Imagenes*/
+
+.textot1{
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.textop1{
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.backblack{
+	background-color: black;
+	opacity: 0.4;
+	width: 240px;
+	height: 150px;
+	margin-left: 30px;
+	margin-top: -260px;
+}
+
+.img1{
+
+	background-image: url("../img/dance_12.jpg") ; 
+	background-size: 300px 400px;
+    background-repeat: no-repeat;
+    padding-top: 400px;
+    margin-left: 140px;
+    margin-top: 15px;
+}
+
+.img2{
+
+	background-image: url("../img/breakdance.jpg") ; 
+	background-size: 300px 400px;
+    background-repeat: no-repeat;
+    padding-top: 400px;
+    margin-left: 330px;
+    margin-top: -400px;
+}
+
+.img3{
+
+	background-image: url("../img/lirical-jazz.jpg") ; 
+	background-size: 300px 400px;
+    background-repeat: no-repeat;
+    padding-top: 400px;
+    margin-left: 660px;
+    margin-top: -400px;
+}
+
+.img4{
+
+	background-image: url("../img/little.jpg") ; 
+	background-size: 300px 400px;
+    background-repeat: no-repeat;
+    padding-top: 400px;
+    margin-left: 140px;
+    margin-top: 30px;
+}
+
+.img5{
+
+	background-image: url("../img/yoga.jpg") ; 
+	background-size: 300px 400px;
+    background-repeat: no-repeat;
+    padding-top: 400px;
+    margin-left: 330px;
+    margin-top: -400px;
+}
+
+.img6{
+
+	background-image: url("../img/arabe.jpg") ; 
+	background-size: 300px 400px;
+    background-repeat: no-repeat;
+    padding-top: 400px;
+    margin-left: 660px;
+    margin-top: -400px;
+}
+
+/* Final Section*/
+
+/*Section*/
+
+.backzapatilla{
+   
+    background-image: url("../img/shoes_1.jpg"); 
+    background-repeat: no-repeat;
+   	width: 700px;
+   	height: 700px;
+   	margin-left: 500px;
+   	margin-top: 1000%;
+}
+
+/*Caja de contacto*/
+
+.contacto{
+    padding: 45px 45px 20px;
+    margin-top: 50px;
+    max-width:100px; 
+    display: inline-block;
+}
+.contacto label{
+    display: block;
+    font-weight: bold;
+}
+.contacto div{
+    margin-bottom: 15px;
+}
+.contacto input[type='text'], .contacto textarea{
+    padding: 7px 6px;
+    width: 294px;
+    border: 1px solid #CED5D7;
+    resize: none;
+    box-shadow:0 0 0 3px #EEF5F7;
+    margin: 5px 0;
+}
+.contacto input[type='text']:focus, .contacto textarea:focus{
+    outline: none;
+}
+.contacto input[type='submit']{
+    padding: 8px 16px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px white;
+ 
+    background: #e4f1f6;
+    background: -moz-linear-gradient(top, #e4f1f6 0%, #cfe6ef 100%);
+    background: -webkit-linear-gradient(top, #e4f1f6 0%,#cfe6ef 100%);
+}
+.contacto input[type='submit']:hover{
+    background: #edfcff;
+    background: -moz-linear-gradient(top, #edfcff 0%, #cfe6ef 100%);
+    background: -webkit-linear-gradient(top, #edfcff 0%,#cfe6ef 100%);
+}
+.contacto input[type='submit']:active{
+    background: #cfe6ef;
+    background: -moz-linear-gradient(top, #cfe6ef 0%, #edfcff 100%);
+    background: -webkit-linear-gradient(top, #cfe6ef 0%,#edfcff 100%);
+}
+
+.contacto{
+	margin-top: 1px;
+	margin-left: -400px;
+}
+
+
+
